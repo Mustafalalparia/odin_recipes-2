@@ -1,2 +1,2 @@
 # odin_recipes-2
-mai kuch bhi likhu udhar aana chahiye
+making a website to showcase recipies by using html
